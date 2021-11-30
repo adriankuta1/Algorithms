@@ -50,7 +50,6 @@ int main()
 
       count++;
 
-
       if (numbers[current_index] == target_num)
 	    {
 
